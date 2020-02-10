@@ -1,6 +1,6 @@
-package com.example.pontointeligente.entities;
+package com.example.pontointeligente.api.entities;
 
-import com.example.pontointeligente.enums.PerfilEnum;
+import com.example.pontointeligente.api.enums.PerfilEnum;
 
 import javax.persistence.*;
 import java.io.Serializable;
